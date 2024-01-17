@@ -1,0 +1,9 @@
+[theme]
+primaryColor="#424340"
+backgroundColor="#f4ece4"
+secondaryBackgroundColor="#cdbcaa"
+textColor="#262730"
+font="sans serif"
+
+[deprecation]
+showPyplotGlobalUse = false
